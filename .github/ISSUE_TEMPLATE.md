@@ -6,7 +6,7 @@ _Problem description goes here_
 
 Parameter | Value
 --------- | ------------------
-**OS X Version:**       | _your OS X version_
+**macOS Version:**       | _your macOS version_
 **Homebrew Version:**   | _your Homebrew version_
 **PHP Version in use:** | _your PHP version_
 **Xcode Version:**      | _your Xcode version_
